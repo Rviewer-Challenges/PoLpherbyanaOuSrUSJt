@@ -3,5 +3,5 @@
 ## La primera API de preguntas de programación en español 🚀
 
 ## Enlace al repositorio principal 🌱
-**https://github.com/gmorte/preguntapi**
+**https://github.com/gerardmorte/preguntapi**
 
